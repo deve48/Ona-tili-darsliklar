@@ -17,24 +17,17 @@ We do not collect the following types of personal information:
 
 
 1.2 PDF Files
-The App not allow you to upload, download, or otherwise interact with PDF files. These files are stored on your device and are not accessed or stored by us.
+The App not allow you to upload, download, or otherwise interact with PDF files. These files are not stored on your device and are not accessed or stored by us.
 
-2. How We Use Your Information
-We may use the information we collect for the following purposes:
 
-To provide, personalize, and improve your experience with the App.
-To respond to your inquiries, comments, or feedback.
-To send you important information, such as updates, security alerts, and administrative messages.
-3. How We Share Your Information
-We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this Privacy Policy.
 
-4. Data Security
+1.3 Data Security
 We take reasonable measures to protect the information we do not collect from unauthorized access, disclosure, alteration, and destruction.
 
-5. Third-Party Links and Services
+1.4 Third-Party Links and Services
 The App do not contain links to third-party websites or services that are not owned or controlled by us. We are not responsible for the privacy practices or content of these third-party sites.
 
-6. Changes to This Privacy Policy
+1.5 Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 7. Contact Us
